@@ -143,5 +143,3 @@ dmypy.json
 
 # commitizen stuff
 node_modules/*
-package-lock.json
-package.json
