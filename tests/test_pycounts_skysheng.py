@@ -21,3 +21,6 @@ def test_count_words():
     )
     actual = count_words("tests/einstein.txt")
     assert actual == expected, "Einstein quote counted incorrectly!"
+
+
+print("test")
